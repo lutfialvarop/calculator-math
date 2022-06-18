@@ -1,0 +1,16 @@
+E:\SMK\Pemdas\BelajarCSharp\bin\Debug\net5.0\BelajarCSharp.exe
+E:\SMK\Pemdas\BelajarCSharp\bin\Debug\net5.0\BelajarCSharp.deps.json
+E:\SMK\Pemdas\BelajarCSharp\bin\Debug\net5.0\BelajarCSharp.runtimeconfig.json
+E:\SMK\Pemdas\BelajarCSharp\bin\Debug\net5.0\BelajarCSharp.runtimeconfig.dev.json
+E:\SMK\Pemdas\BelajarCSharp\bin\Debug\net5.0\BelajarCSharp.dll
+E:\SMK\Pemdas\BelajarCSharp\bin\Debug\net5.0\ref\BelajarCSharp.dll
+E:\SMK\Pemdas\BelajarCSharp\bin\Debug\net5.0\BelajarCSharp.pdb
+E:\SMK\Pemdas\BelajarCSharp\obj\Debug\net5.0\BelajarCSharp.csproj.AssemblyReference.cache
+E:\SMK\Pemdas\BelajarCSharp\obj\Debug\net5.0\BelajarCSharp.GeneratedMSBuildEditorConfig.editorconfig
+E:\SMK\Pemdas\BelajarCSharp\obj\Debug\net5.0\BelajarCSharp.AssemblyInfoInputs.cache
+E:\SMK\Pemdas\BelajarCSharp\obj\Debug\net5.0\BelajarCSharp.AssemblyInfo.cs
+E:\SMK\Pemdas\BelajarCSharp\obj\Debug\net5.0\BelajarCSharp.csproj.CoreCompileInputs.cache
+E:\SMK\Pemdas\BelajarCSharp\obj\Debug\net5.0\BelajarCSharp.dll
+E:\SMK\Pemdas\BelajarCSharp\obj\Debug\net5.0\ref\BelajarCSharp.dll
+E:\SMK\Pemdas\BelajarCSharp\obj\Debug\net5.0\BelajarCSharp.pdb
+E:\SMK\Pemdas\BelajarCSharp\obj\Debug\net5.0\BelajarCSharp.genruntimeconfig.cache
